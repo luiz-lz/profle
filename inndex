@@ -2,11 +2,11 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>luiz, profile</title>
-  <link rel="shortcut icon" href="favicon.png.png" type="image/x-icon">
-  <link rel="stylesheet" href="/assents/css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mobile_firt_Portifolio</title>
+    <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/styles_mq.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 
@@ -42,11 +42,11 @@
     <!-- Todas as imagens são oculta pelo atributo none, e a cada mudança de resolução
       de tela será exibido somente as imagens que pertence a cada tela-->
     <main>
-        <img src="cristiano.webp" alt="teste com celular" id="mobile">
+        <img src="assets/icon-phone.png" alt="teste com celular" id="mobile">
 
-        <img src="cristiano.png" alt="teste com celular" id="tablet">
+        <img src="assets/icon-tablet.png" alt="teste com celular" id="tablet">
 
-        <img src="bola.web" alt="versão impressora" id="print">
+        <img src="assets/icon-print.png" alt="versão impressora" id="print">
 
         <img src="assets/icon-pc.png" alt="teste com desktop" id="pc">
 
@@ -96,7 +96,7 @@
 
     <footer>
         <p>
-            @luizf_64
+            @Ivan Paulino - Mobile First - 2024
         </p>
     </footer>
     <!--  -->
@@ -131,6 +131,3 @@
 </body>
 
 </html>
-
-
-
